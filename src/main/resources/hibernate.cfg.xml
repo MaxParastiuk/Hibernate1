@@ -15,6 +15,9 @@
 
         <property name="show_sql">true</property>
 
-        <mapping class="HomeWork4.entity.Car"/>
+        <mapping class="HomeWork5.entity.Animal"/>
+        <mapping class="HomeWork5.entity.Aviary"/>
+        <mapping class="HomeWork5.entity.Vet"/>
+
     </session-factory>
 </hibernate-configuration>
